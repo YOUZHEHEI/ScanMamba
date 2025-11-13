@@ -1,5 +1,0 @@
-assets
-cobra
-data
-runs
-scripts
